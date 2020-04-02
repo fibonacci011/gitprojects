@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 #program to practice github
+#added command line by darko
 
 int main(){
 	printf("Command line 1 added by Darko\n");
